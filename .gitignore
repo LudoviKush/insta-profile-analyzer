@@ -1,0 +1,4 @@
+.env
+temp_downloads/
+output/
+session-* 
